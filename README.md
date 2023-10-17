@@ -1,8 +1,15 @@
-## Seja bem-vindo ao meu Github!
+# Hi 👋, **I'm João Marcos** 🇧🇷 
 
-Entusiasta de novas tecnologias, estudante de desenvolvimento fullstack.
+Enthusiast of new technologies, full-stack development student.
 
-<div style="display: inline_block"><br><b>Tecnologias nas quais pratico:</b></div>
+- 🔭 I’m currently working on full-stack projects using React library on the front-end and Ruby on Rails on the back-end.
+- 🌱 I’m currently learning React, Node.js and others javascript frameworks and libraries. 
+- 👯 I’m looking to collaborate on **Open Source** projects. 
+- 📫 <a href="mailto:jmarcosmmn@gmail.com">Send an email</a> 
+- 😄 Pronouns: He / Him
+- ⚡ Fun fact: I love programming and capital market.
+
+<div style="display: inline_block"><br><b>The technologies I am practicing.</b></div>
 <div style="display: inline_block"><br>
   <img align="center" alt="JM-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="JM-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -16,7 +23,6 @@ Entusiasta de novas tecnologias, estudante de desenvolvimento fullstack.
 ##
  
 <div> 
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:jmarcosmmn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joaomarcos-bs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
