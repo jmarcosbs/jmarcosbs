@@ -2,7 +2,6 @@
 
 Enthusiast of new technologies, full-stack development student.
 
-- 🔭 I’m currently working on full-stack projects using React library on the front-end and Ruby on Rails on the back-end.
 - 🌱 I’m currently learning React, Node.js and others javascript frameworks and libraries. 
 - 👯 I’m looking to collaborate on **Open Source** projects. 
 - 📫 <a href="mailto:jmarcosmmn@gmail.com">Send an email</a> 
