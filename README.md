@@ -5,8 +5,9 @@ Enthusiast of new technologies, full-stack development student.
 - 🌱 I’m currently learning React, Node.js and others javascript frameworks and libraries. 
 - 👯 I’m looking to collaborate on **Open Source** projects. 
 - 📫 <a href="mailto:jmarcosmmn@gmail.com">Send an email</a> 
-- 😄 Pronouns: He / Him
 - ⚡ Fun fact: I love programming and capital market.
+- 
+![fire](https://github.com/jmarcosbs/jmarcosbs/assets/137966714/3bffec96-04fc-4242-95c5-dd98e2f07f9a)
 
 <div style="display: inline_block"><br><b>The technologies I am practicing.</b></div>
 <div style="display: inline_block"><br>
