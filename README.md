@@ -3,7 +3,7 @@
 Enthusiast of new technologies, full-stack development student.
 
 - 🎓 I am studying Analysis and Systems Development at UNINTER.
-- 🌱 I’m currently learning Spring Boot and others Java frameworks and libraries. 
+- 🌱 I’m currently learning NextJs and others Javascript frameworks and libraries. 
 - 👯 I’m looking to collaborate on **Open Source** projects. 
 - 📫 <a href="mailto:jmarcosmmn@gmail.com">Send an email</a> 
 - ⚡ Fun fact: I love programming and capital market.
